@@ -1,0 +1,30 @@
+html {
+  font-size: 22px;
+  color: #cceabb;
+  background-color: #f7f7f7;
+  opacity: 0.9;
+}
+
+body {
+  margin: 0px;
+}
+
+header {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: #3f3f44;
+  margin: 0;
+  bottom-
+}
+
+header h3 {
+  padding: 0.5rem;
+}
+
+header > img {
+  max-width: 20px;
+  max-height: 20px;
+}
